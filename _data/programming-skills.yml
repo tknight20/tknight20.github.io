@@ -1,0 +1,20 @@
+- name: Python 
+  percentage: 95
+  color: danger
+
+- name: MATLAB
+  percentage: 90
+  color: primary
+
+- name: C++
+  percentage: 85
+  color: secondary 
+
+- name: Rust
+  percentage: 85
+  color: info
+
+- name: React Native
+  percentage: 80
+  color: success
+

@@ -1,0 +1,21 @@
+- name: CAD
+  percentage: 95
+  color: danger
+
+- name: Computational Fluid Dynamics
+  percentage: 90
+  color:
+
+- name: Manufacturing Processes
+  percentage: 90
+  color: secondary
+
+- name: 4D Design Process
+  percentage: 85
+  color: info 
+
+- name: PCB Design 
+  percentage: 75
+  color: success
+
+
